@@ -9,20 +9,19 @@ A cloud-based cybersecurity lab deploying a live honeypot on Microsoft Azure to 
 ## Screenshots
 
 ### Threat Map
-![Threat Map](screenshots/HoneypotThreatMap_Screenshot.png)
+![Threat Map](HoneypotThreatMap_Screenshot.png)
 
 ### SOC Dashboard
-![SOC Dashboard](screenshots/HoneypotSOC_Dashboard.png)
+![SOC Dashboard](HoneypotSOC_Dashboard.png)
 
 ### Attacker IP Analysis
-![Attacker IPs](screenshots/FailedIPAdressAttempts_Screenshot.png)
+![Attacker IPs](FailedIPAdressAttempts_Screenshot.png)
 
 ### Top 10 Attackers
-![Top 10 Attackers](screenshots/Top10Attacks_Screenshot.png)
+![Top 10 Attackers](Top10Attacks_Screenshot.png)
 
 ### Failed Login Volume
-![Failed Logins](screenshots/FailedLogins_Screenshot.png)
-
+![Failed Logins](FailedLogins_Screenshot.png)
 ---
 
 ## Architecture
